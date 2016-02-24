@@ -1,6 +1,8 @@
 language: ruby
 
 script: echo "script test"
+script: test.sh
+script: echo "script end"
 
 env:
   global:
