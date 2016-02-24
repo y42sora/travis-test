@@ -1,0 +1,8 @@
+language: ruby
+
+script: echo "script test"
+
+env:
+  global:
+  - PARAM=""
+  - DISABLE_NOTIFICATION="true"
