@@ -1,6 +1,6 @@
 language: ruby
 
-script: test.sh
+script: ./test.sh
 
 env:
   global:
